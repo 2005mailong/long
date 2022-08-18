@@ -1,0 +1,35 @@
+2022/08/17-16:29:22.180 d4a Reusing MANIFEST /home/natsu/.config/google-chrome/Profile 1/IndexedDB/https_www.emulatorgames.net_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/17-16:29:22.180 d4a Recovering log #7
+2022/08/17-16:29:22.180 d4a Reusing old log /home/natsu/.config/google-chrome/Profile 1/IndexedDB/https_www.emulatorgames.net_0.indexeddb.leveldb/000007.log 
+2022/08/17-16:29:24.763 d4d Level-0 table #11: started
+2022/08/17-16:29:24.764 d4d Level-0 table #11: 566 bytes OK
+2022/08/17-16:29:24.765 d4d Delete type=0 #7
+2022/08/17-16:29:24.765 d4d Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x00\x00\x05' @ 45 : 1
+2022/08/17-16:29:24.765 d4d Compacting 1@0 + 1@1 files
+2022/08/17-16:29:24.766 d4d Generated table #12@0: 8 keys, 603 bytes
+2022/08/17-16:29:24.766 d4d Compacted 1@0 + 1@1 files => 603 bytes
+2022/08/17-16:29:24.767 d4d compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/08/17-16:29:24.767 d4d Delete type=2 #11
+2022/08/17-16:29:24.767 d4d Manual compaction at level-0 from '\x00\x03\x00\x00\x05' @ 45 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/08/17-16:29:28.698 d4d Level-0 table #14: started
+2022/08/17-16:29:28.698 d4d Level-0 table #14: 585 bytes OK
+2022/08/17-16:29:28.699 d4d Delete type=2 #8
+2022/08/17-16:29:28.699 d4d Delete type=0 #10
+2022/08/17-16:29:28.699 d4d Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\x05' @ 64 : 1
+2022/08/17-16:29:28.699 d4d Compacting 1@0 + 1@1 files
+2022/08/17-16:29:28.700 d4d Generated table #15@0: 13 keys, 663 bytes
+2022/08/17-16:29:28.700 d4d Compacted 1@0 + 1@1 files => 663 bytes
+2022/08/17-16:29:28.703 d4d compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/08/17-16:29:28.703 d4d Delete type=2 #14
+2022/08/17-16:29:28.703 d4d Manual compaction at level-0 from '\x00\x04\x00\x00\x05' @ 64 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/08/17-16:29:29.607 d48 Level-0 table #17: started
+2022/08/17-16:29:29.608 d48 Level-0 table #17: 570 bytes OK
+2022/08/17-16:29:29.609 d48 Delete type=2 #12
+2022/08/17-16:29:29.609 d48 Delete type=0 #13
+2022/08/17-16:29:29.609 d48 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 83 : 1
+2022/08/17-16:29:29.609 d48 Compacting 1@0 + 1@1 files
+2022/08/17-16:29:29.610 d48 Generated table #18@0: 18 keys, 741 bytes
+2022/08/17-16:29:29.610 d48 Compacted 1@0 + 1@1 files => 741 bytes
+2022/08/17-16:29:29.611 d48 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/08/17-16:29:29.611 d48 Delete type=2 #17
+2022/08/17-16:29:29.611 d48 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 83 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,9 @@
+2022/08/18-08:44:14.071 5 Reusing MANIFEST /home/natsu/.config/google-chrome/Profile 1/Local Storage/leveldb/MANIFEST-000001
+2022/08/18-08:44:14.072 5 Recovering log #91
+2022/08/18-08:44:14.072 5 Reusing old log /home/natsu/.config/google-chrome/Profile 1/Local Storage/leveldb/000091.log 
+2022/08/18-08:47:20.292 5 Level-0 table #95: started
+2022/08/18-08:47:20.304 5 Level-0 table #95: 19581 bytes OK
+2022/08/18-08:47:20.307 5 Delete type=0 #91
+2022/08/18-08:56:11.873 f Level-0 table #97: started
+2022/08/18-08:56:11.885 f Level-0 table #97: 70049 bytes OK
+2022/08/18-08:56:11.887 f Delete type=0 #94
